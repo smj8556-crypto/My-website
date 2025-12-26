@@ -33,11 +33,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 60px;
-    background-color: #E6EDE6;
+    background-color: #24110A;
 }
 
 .logo img {
-    border-radius: 50%;
     padding: 10px;
 }
 
@@ -64,18 +63,18 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     padding: 0px 60px;
-    background-color: #f5f3ed;
+    background-color: #E6D5AF;
     position: relative;
 }
 
 .hero img {
-    max-width: 886px;
-    width: 100%;
+    
+    width: 513px;
 }
 
 .hero-text {
     position: absolute;
-    right: 25%;
+    right: 20%;
     top: 50%;
     transform: translateY(-50%);
     font-size: 30px;
@@ -87,7 +86,7 @@ nav a:hover {
 /* About Section */
 .about {
     padding: 80px 60px;
-    background-color: #f5f3ed;
+    background-color: #E6D5AF;
 }
 
 .about h2 {
@@ -152,7 +151,7 @@ nav a:hover {
 /* Project Section */
 .project {
     padding: 80px 60px;
-    background-color: #f5f3ed;
+    background-color: #E6D5AF;
 }
 
 .project h2 {
@@ -200,7 +199,7 @@ nav a:hover {
 /* Contact Section */
 .contact {
     padding: 80px 60px;
-    background-color: #f5f3ed;
+    background-color: #E6D5AF;
 }
 
 .contact h2 {
